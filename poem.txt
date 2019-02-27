@@ -8,4 +8,5 @@ Green
 Corn
 Yello
 Red
+Indigo 
 These are the colours of the rainbow and the corn
