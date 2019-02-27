@@ -6,7 +6,7 @@ Orang
 Bl
 Green
 Corn
+Indigo
 Yello
 Red
-Indigo 
 These are the colours of the rainbow and the corn
